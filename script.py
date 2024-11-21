@@ -148,7 +148,7 @@ class PageSpeedReporter:
 
 if __name__ == "__main__":
     urls = [
-        'https://actualseomedia.com'
+        'https://example.com'
     ]
     
     reporter = PageSpeedReporter()
